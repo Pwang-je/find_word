@@ -38,6 +38,31 @@
 </table>
 
 
+<table border="1">
+    <thead>
+    <tr>
+        <th>학교이름</th>
+        <th>출제년도</th>
+        <th>단어</th>
+        <th>해석</th>
+        <th>우선순위</th>
+        <th>횟수</th>
+    </tr>
+    </thead>
+    <tbody>
+<%--    <c:forEach items="${wordList}" var="word">--%>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </c:forEach>
+    </tbody>
+</table>
+
 
 
 </body>
